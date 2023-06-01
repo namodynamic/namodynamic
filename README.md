@@ -46,6 +46,13 @@ My goal is to create innovative and practical solutions to meet the unique needs
 
 
 
+
+<!---<a href="https://github.com/namodynamic/MERN-Ecomm-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namodynamic&repo=MERN-Ecomm-admin" />
+</a> --->
+
+
+
 <!---
 namodynamic/namodynamic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
