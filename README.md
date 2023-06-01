@@ -31,11 +31,13 @@ My goal is to create innovative and practical solutions to meet the unique needs
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 
-<p>![namodynamic's GitHub stats](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&theme=radical)</p>
+<p>
+ 
+ 
+ ![namodynamic's GitHub stats](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&theme=radical)
+</p>
 <!---
 namodynamic/namodynamic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
