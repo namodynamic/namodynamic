@@ -24,9 +24,9 @@ My goal is to create innovative and practical solutions to meet the unique needs
 
 
 ## Let's Connect
- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedIn" width="30" height="auto" />](https://www.linkedin.com/in/ekechinnamdi)
+ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedIn" width="15" height="15" /> LinkedIn](https://www.linkedin.com/in/ekechinnamdi)
  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="me in twitter" width="30" height="auto" />](https://twitter.com/namodynamic)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="me in twitter" width="15" height="15" /> Twitter](https://twitter.com/namodynamic)
 
 
 
@@ -39,9 +39,9 @@ My goal is to create innovative and practical solutions to meet the unique needs
  
  
       
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namodynamic&layout=donut&langs_count=10)](https://github.com/namodynamic/github-readme-stats) 
-[![namodynamic's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-dark-mode-only)
-[![namodynamic's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-light-mode-only)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namodynamic&layout=compact&langs_count=10)](https://github.com/namodynamic/github-readme-stats) 
+[![namodynamic's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=20&theme=dark#gh-dark-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-dark-mode-only)
+[![namodynamic's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=20&theme=default#gh-light-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-light-mode-only)
 </p>
 
 
