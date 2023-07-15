@@ -1,4 +1,4 @@
-# 👋 Hello, I’m [Nnamdi Ekechi](https://nnamdiekechi.netlify.app)
+# 👋 Hello, I’m [Nnamdi](https://nnamdiekechi.netlify.app)
 
 
 I am a  web developer with a background in frontend development and experience in backend development as well. My skills include HTML, CSS, JavaScript, Node.js,React.js, Express, MongoDB, and various other web development frameworks and libraries. I have a passion for creating responsive, dynamic, and efficient web applications that provide a seamless user experience. I am constantly learning new technologies and expanding my skill set to stay up-to-date with the latest trends and advancements in the field. I'm passionate about building first-class web applications.
