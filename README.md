@@ -5,7 +5,7 @@ I am a  web developer with a background in frontend development and experience i
 
 My goal is to create innovative and practical solutions to meet the unique needs of each project, while always maintaining a focus on user experience and functionality. I am committed to delivering high-quality work and exceeding client expectations.
 -  I’m interested in learning and building new things.
--  I’m currently learning Next.js and  mastering MERN.
+-  I’m currently learning Next.js and  mastering MERN stack.
 -  I’m looking to work and  collaborate on projects.
 
  ## Languages and tools i use:
