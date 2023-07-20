@@ -1,14 +1,14 @@
 # 👋 Hello, I’m [Nnamdi](https://nnamdiekechi.netlify.app)
 
 
-I am a  web developer with a background in frontend development and experience in backend development as well. My skills include HTML, CSS, JavaScript, Node.js,React.js, Express, MongoDB, and various other web development frameworks and libraries. I have a passion for creating responsive, dynamic, and efficient web applications that provide a seamless user experience. I am constantly learning new technologies and expanding my skill set to stay up-to-date with the latest trends and advancements in the field. I'm passionate about building first-class web applications.
+I am a  web developer with a background in frontend development and experience in backend development. My skills include HTML, CSS, JavaScript, Node.js,React.js, Express, MongoDB, and other web development frameworks and libraries. I am passionate about creating responsive, dynamic, and efficient web applications that provide a seamless user experience. I am constantly learning new technologies and expanding my skill set to stay up-to-date with the latest trends and advancements in the field. I am passionate about building first-class web applications.
 
 My goal is to create innovative and practical solutions to meet the unique needs of each project, while always maintaining a focus on user experience and functionality. I am committed to delivering high-quality work and exceeding client expectations.
 -  I’m interested in learning and building new things.
--  I’m currently learning Next.js and  mastering MERN stack.
+-  I’m currently learning Next.js and  mastering the MERN stack.
 -  I’m looking to work and  collaborate on projects.
 
- ## Languages and tools i use:
+ ## Languages and tools I use:
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="45" height="45" />
