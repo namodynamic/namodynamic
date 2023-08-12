@@ -1,7 +1,7 @@
 # 👋 Hello, I’m [Nnamdi](https://nnamdiekechi.netlify.app)
 
 
-I am a  web developer with a background in frontend development and experience in backend development. My skills include HTML, CSS, JavaScript, Node.js,React.js, Express, MongoDB, and other web development frameworks and libraries. I am passionate about creating responsive, dynamic, and efficient web applications that provide a seamless user experience. I am constantly learning new technologies and expanding my skill set to stay up-to-date with the latest trends and advancements in the field. I am passionate about building first-class web applications.
+ I am passionate about creating responsive, dynamic, and efficient web applications that provide a seamless user experience. I am constantly learning new technologies and expanding my skill set to stay up-to-date with the latest trends and advancements in the field. I am passionate about building first-class web applications.
 
 My goal is to create innovative and practical solutions to meet the unique needs of each project, while always maintaining a focus on user experience and functionality. I am committed to delivering high-quality work and exceeding client expectations.
 -  I’m interested in learning and building new things.
