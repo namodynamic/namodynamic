@@ -1,4 +1,4 @@
-# 👋 Hello, I’m [Nnamdi](https://nnamdiekechi.netlify.app)
+![full-stack](https://github.com/namodynamic/namodynamic/assets/126875351/2c82eee6-50f8-4fec-ae80-8a6f52957ade)
 
 
  I am passionate about creating responsive, dynamic, and efficient web applications that provide a seamless user experience. I am constantly learning new technologies and expanding my skill set to stay up-to-date with the latest trends and advancements in the field. I am passionate about building first-class web applications.
@@ -7,7 +7,7 @@ My goal is to create innovative and practical solutions to meet the unique needs
 -  I’m interested in learning and building new things.
 -  I’m looking to work and  collaborate on projects.
 
- ## Languages and tools I use:
+ ## Some of the Languages and tools I use:
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="45" height="45" />
@@ -20,6 +20,11 @@ My goal is to create innovative and practical solutions to meet the unique needs
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="vscode" width="40" height="40" /> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfq72yhX9gclHV6ONYE2qi1-1rcVVfr2epm9-C-N4aw&s" alt="postman" width="40" height="40" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="openai" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs" style="filter: invert(100%);" />
+          
+          
+          
+          
 </p>
 
 
