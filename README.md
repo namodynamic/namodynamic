@@ -57,7 +57,7 @@ My goal is to create innovative and practical solutions to meet the unique needs
 [![namodynamic's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=default#gh-light-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-light-mode-only)
 </p>
 
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+
 
 
 
