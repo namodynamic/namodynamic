@@ -4,8 +4,11 @@
  I am passionate about creating responsive, dynamic, and efficient web applications that provide a seamless user experience. I am constantly learning new technologies and expanding my skill set to stay up-to-date with the latest trends and advancements in the field. I am passionate about building first-class web applications.
 
 My goal is to create innovative and practical solutions to meet the unique needs of each project, while always maintaining a focus on user experience and functionality. I am committed to delivering high-quality work and exceeding client expectations.
--  I’m interested in learning and building new things.
--  I’m looking to work and  collaborate on projects.
+-  👨🏻‍💻   I’m interested in learning and building new things.
+-  🤝   I’m looking to work and  collaborate on projects.
+-  ✉️    You can contact me at [ekechinnamdi@gmail.com](mailto:ekechinnamdi@gmail.com)
+-  🖥️   See my portfolio at [nnamdiekechi.com](http://nnamdiekechi.com)
+
 
  ## Some of the Languages and tools I use:
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
