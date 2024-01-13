@@ -1,4 +1,5 @@
-![full-stack](https://github.com/namodynamic/namodynamic/assets/126875351/2c82eee6-50f8-4fec-ae80-8a6f52957ade)
+![NNAMDI EKECHI](https://github.com/namodynamic/namodynamic/assets/126875351/ecc5a586-fc4e-44da-9863-a14cd62afd2e)
+
 
 
  I am passionate about creating responsive, dynamic, and efficient web applications that provide a seamless user experience. I am constantly learning new technologies and expanding my skill set to stay up-to-date with the latest trends and advancements in the field. I am passionate about building first-class web applications.
@@ -28,6 +29,9 @@ My goal is to create innovative and practical solutions to meet the unique needs
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="redux" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" alt="threejs" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="docker" />
+          
+          
           
           
           
