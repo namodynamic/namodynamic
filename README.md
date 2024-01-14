@@ -1,4 +1,4 @@
-![NNAMDI EKECHI](https://github.com/namodynamic/namodynamic/assets/126875351/ecc5a586-fc4e-44da-9863-a14cd62afd2e)
+![namodynamic](https://github.com/namodynamic/namodynamic/assets/126875351/bc4a5846-3190-4a4b-a4df-57e16abba91f)
 
 
 
