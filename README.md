@@ -60,8 +60,8 @@ My goal is to create innovative and practical solutions to meet the unique needs
  
       
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namodynamic&layout=donut&langs_count=10)](https://github.com/namodynamic/github-readme-stats) 
-[![namodynamic's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=dark#gh-dark-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-dark-mode-only)
-[![namodynamic's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=default#gh-light-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-light-mode-only)
+<!---[![namodynamic's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=dark#gh-dark-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-dark-mode-only) --->
+<!---[![namodynamic's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=default#gh-light-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-light-mode-only) --->
 </p>
 
 
