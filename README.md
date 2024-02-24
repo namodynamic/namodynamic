@@ -17,14 +17,12 @@ My goal is to create innovative and practical solutions to meet the unique needs
           
 
 ## Let's Connect
-<!--- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedIn" width="15" height="15" /> LinkedIn](https://www.linkedin.com/in/ekechinnamdi)
+
  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="me in twitter" width="15" height="15" /> Twitter](https://twitter.com/namodynamic) --->
-<p align="center">
-  <a href="https://twitter.com/namodynamic">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+[ <img src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/namodynamic)
+  <a href="https://linkedin.com/in/ekechinnamdi">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
 
 
 
