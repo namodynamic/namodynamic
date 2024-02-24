@@ -15,21 +15,16 @@ My goal is to create innovative and practical solutions to meet the unique needs
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,nextjs,ts,redux,threejs,tailwind,bootstrap,npm,docker,vite,git,postman,github,vercel,apple,stackoverflow,ai,figma,vscode)](https://skillicons.dev)
           
           
-          
-          
-          
-
-          
-          
-          
-          
-</p>
-
 
 ## Let's Connect
- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedIn" width="15" height="15" /> LinkedIn](https://www.linkedin.com/in/ekechinnamdi)
+<!--- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedIn" width="15" height="15" /> LinkedIn](https://www.linkedin.com/in/ekechinnamdi)
  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="me in twitter" width="15" height="15" /> Twitter](https://twitter.com/namodynamic)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="me in twitter" width="15" height="15" /> Twitter](https://twitter.com/namodynamic) --->
+<p align="center">
+  <a href="https://twitter.com/namodynamic">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
 
 
 
@@ -39,23 +34,12 @@ My goal is to create innovative and practical solutions to meet the unique needs
 
 
 <p>
- 
- 
-      
+    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namodynamic&layout=donut&langs_count=10)](https://github.com/namodynamic/github-readme-stats) 
 <!---[![namodynamic's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=dark#gh-dark-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-dark-mode-only) --->
 <!---[![namodynamic's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=default#gh-light-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-light-mode-only) --->
 </p>
 
-
-
-
-
-
-
-<!---<a href="https://github.com/namodynamic/MERN-Ecomm-admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namodynamic&repo=MERN-Ecomm-admin" />
-</a> --->
 
 
 
