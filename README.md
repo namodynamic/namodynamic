@@ -8,7 +8,7 @@
 My goal is to create innovative and practical solutions to meet the unique needs of each project, while always maintaining a focus on user experience and functionality. I am committed to delivering high-quality work and exceeding client expectations.
 -  👨🏻‍💻   I’m interested in learning and building new things.
 -  🤝   I’m looking to work and  collaborate on projects.
--  ✉️    You can contact me on [my email](mailto:ekechinnamdi@gmail.com)
+-  ✉️    You can contact me on my [email](mailto:ekechinnamdi@gmail.com)
 -  🖥️   See my portfolio at [www.nnamdiekechi.com](http://nnamdiekechi.com)
 
 
