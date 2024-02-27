@@ -17,7 +17,7 @@ My goal is to create innovative and practical solutions to meet the unique needs
           
           
 
-## Let's Connect
+## Connect with me
 
  
 [ <img src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/namodynamic)
@@ -25,19 +25,32 @@ My goal is to create innovative and practical solutions to meet the unique needs
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-
-
-
-<br/>
 <br/>
 
 
-<p>
+<!---<p>
     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namodynamic&layout=pie&langs_count=10)](https://github.com/namodynamic/github-readme-stats) 
-<!---[![namodynamic's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=dark#gh-dark-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-dark-mode-only) --->
-<!---[![namodynamic's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=default#gh-light-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-light-mode-only) --->
-</p>
+[![namodynamic's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=dark#gh-dark-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-dark-mode-only)
+[![namodynamic's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22&theme=default#gh-light-mode-only)](https://github.com/namodynamic/github-readme-stats#gh-light-mode-only)
+</p> --->
+ 
+  <!-- GitHub section -->
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namodynamic" alt="Nnamdi's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namodynamic&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Nnamdi's language" height="192px"  width="500px"/>
+</div>
+<br/>
+Expand to view
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=namodynamic&show_icons=true" />
+</details>
+
+<!-- GitHub section: END -->
 
 ![](https://komarev.com/ghpvc/?username=namodynamic&label=PROFILE+VIEWS&color=blueviolet)
 
