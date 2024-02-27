@@ -46,7 +46,7 @@ My goal is to create innovative and practical solutions to meet the unique needs
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namodynamic" alt="Nnamdi's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namodynamic&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Nnamdi's language" height="192px"  width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namodynamic&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Nnamdi's language" height="192px"  width="500px"/>
 </div>
 <br/>
 Expand to view
