@@ -20,10 +20,15 @@ My goal is to create innovative and practical solutions to meet the unique needs
 ## Connect with me
 
  
-[ <img src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/namodynamic)
+<!---[ <img src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/namodynamic)
   <a href="https://linkedin.com/in/ekechinnamdi">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  </a> --->
+   <p>
+        <a href="https://linkedin.com/in/ekechinnamdi"><img src="https://img.shields.io/badge/-Nnamdi%20Ekechi%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/ekechinnamdi" alt="LinkedIn Badge"></a> 
+       <a href="https://twitter.com/namodynamic
+/"><img src="https://img.shields.io/badge/-Nnamdi Ekechi-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/namodynamic" alt="Twitter Badge"></a>
+   </p>
 
 <br/>
 
