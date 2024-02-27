@@ -19,16 +19,15 @@ My goal is to create innovative and practical solutions to meet the unique needs
 
 ## Connect with me
 
- 
-<!---[ <img src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/namodynamic)
-  <a href="https://linkedin.com/in/ekechinnamdi">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> --->
-   <p>
-        <a href="https://linkedin.com/in/ekechinnamdi"><img src="https://img.shields.io/badge/-Nnamdi%20Ekechi%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/ekechinnamdi" alt="LinkedIn Badge"></a> 
+
+   [![Twitter: namodynamic](https://img.shields.io/twitter/follow/namodynamic?style=social)](https://twitter.com/namodynamic)
+[![Linkedin: ekechinnamdi](https://img.shields.io/badge/-Nnamdi%20Ekechi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekechinnamdi/)](https://www.linkedin.com/in/ekechinnamdi/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/namodynamic?label=follow&style=social)](https://github.com/namodynamic)
+  <!--- <p> 
+   <a href="https://linkedin.com/in/ekechinnamdi"><img src="https://img.shields.io/badge/-Nnamdi%20Ekechi%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/ekechinnamdi" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/namodynamic
 /"><img src="https://img.shields.io/badge/-Nnamdi Ekechi-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/namodynamic" alt="Twitter Badge"></a>
-   </p>
+   </p> --->
 
 <br/>
 
