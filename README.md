@@ -1,11 +1,7 @@
 ![NNAMDI EKECHI](https://github.com/namodynamic/namodynamic/assets/126875351/f7cda4e8-8228-4106-a279-d1d79f11155b)
 
+Self-motivated Web Developer with expertise in HTML, CSS, JavaScript, React, Nextjs, Node.js, Express, and MongoDB. Possessing a strong work ethic and a zeal for continuous learning, I am committed to delivering efficient and user-friendly web applications.
 
-
-
- I am passionate about creating responsive, dynamic, and efficient web applications that provide a seamless user experience. I am constantly learning new technologies and expanding my skill set to stay up-to-date with the latest trends and advancements in the field. I am passionate about building first-class web applications.
-
-My goal is to create innovative and practical solutions to meet the unique needs of each project, while always maintaining a focus on user experience and functionality. I am committed to delivering high-quality work and exceeding client expectations.
 -  👨🏻‍💻   I’m interested in learning and building new things.
 -  🤝   I’m looking to work and  collaborate on projects.
 -  ✉️    You can contact me on my [email](mailto:ekechinnamdi@gmail.com)
