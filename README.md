@@ -1,6 +1,5 @@
-![NNAMDI EKECHI](https://github.com/namodynamic/namodynamic/assets/126875351/f7cda4e8-8228-4106-a279-d1d79f11155b)
-
-Self-motivated Web Developer with expertise in HTML, CSS, JavaScript, React, Nextjs, Node.js, Express, and MongoDB. Possessing a strong work ethic and a zeal for continuous learning, I am committed to delivering efficient and user-friendly web applications.
+## Hello there 👋,
+My name is Nnamd, a self-motivated Web Developer with expertise in HTML, CSS, JavaScript, React, Nextjs, Node.js, Express, and MongoDB. Possessing a strong work ethic and a zeal for continuous learning, I am committed to delivering efficient and user-friendly web applications.
 
 -  👨🏻‍💻   I’m interested in learning and building new things.
 -  🤝   I’m looking to work and  collaborate on projects.
