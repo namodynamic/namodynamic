@@ -1,12 +1,12 @@
 ## Hello there 👋,
-I'm Nnamdi, a web developer who loves building things that work and make a difference. I enjoy solving problems, learning new things, and creating better experiences on the web. Let's connect! 🚀✨
+I'm Nnamdi, a web developer who loves building things that work and make a difference. I enjoy solving problems, learning new things, and creating better experiences on the web.
 
 -  👨🏻‍💻   I’m interested in learning and building new things.
 -  🤝   I'm currently enrolled in the ALX Back-End Development program to sharpen my backend skills.
 -  ✉️    Contact me for collaborations [email](mailto:ekechinnamdi@gmail.com)
--  🖥️   See my portfolio at [nnamdiekechi.com](https://nnamdiekechi.com)
+-  🖥️   See my portfolio at [nnamdiekechi.com](https://www.nnamdiekechi.com)
 
-<h3 align="">Connect with me</h3>
+<h3 align="">Let's connect! 🚀✨</h3>
 <div> 
  
 [![Twitter: namodynamic](https://img.shields.io/twitter/follow/namodynamic?style=social)](https://twitter.com/namodynamic)
