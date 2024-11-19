@@ -4,7 +4,7 @@ I'm Nnamdi, a web developer who loves building things that work and make a diffe
 -  👨🏻‍💻   I’m interested in learning and building new things.
 -  🤝   I'm currently enrolled in the ALX Back-End Development program to sharpen my backend skills.
 -  ✉️    Contact me for collaborations [email](mailto:ekechinnamdi@gmail.com)
--  🖥️   See my portfolio at [www.nnamdiekechi.com](http://nnamdiekechi.com)
+-  🖥️   See my portfolio at [nnamdiekechi.com](https://nnamdiekechi.com)
 
 <h3 align="">Connect with me</h3>
 <div> 
