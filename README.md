@@ -1,9 +1,9 @@
 ## Hello there 👋,
-My name is Nnamdi, a self-motivated Web Developer with expertise in HTML, CSS, JavaScript, React, Nextjs, Node.js, Express, and MongoDB. Possessing a strong work ethic and a zeal for continuous learning, I am committed to delivering efficient and user-friendly web applications.
+I'm Nnamdi, a web developer who loves building things that work and make a difference. I enjoy solving problems, learning new things, and creating better experiences on the web. Let's connect! 🚀✨
 
 -  👨🏻‍💻   I’m interested in learning and building new things.
--  🤝   I'm actively exploring job opportunities and roles.
--  ✉️    You can contact me on my [email](mailto:ekechinnamdi@gmail.com)
+-  🤝   I'm currently enrolled in the ALX Back-End Development program to sharpen my backend skills.
+-  ✉️    Contact me for collaborations [email](mailto:ekechinnamdi@gmail.com)
 -  🖥️   See my portfolio at [www.nnamdiekechi.com](http://nnamdiekechi.com)
 
 <h3 align="">Connect with me</h3>
