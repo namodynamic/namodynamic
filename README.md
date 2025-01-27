@@ -44,7 +44,7 @@ I'm Nnamdi, a web developer who loves building things that work and make a diffe
 <details>
   <summary>My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px align="center"></summary>
  <div align="">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namodynamic" alt="Nnamdi's LangStat" width="400px" height="192px"/>
+<!--    <img src="https://github-readme-streak-stats.herokuapp.com/?user=namodynamic" alt="Nnamdi's LangStat" width="400px" height="192px"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namodynamic&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Nnamdi's Top language" height="178px"  width="400px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=namodynamic&show_icons=true&line_height=22" alt="GitHub Stats" width="400px"/>
 </div>
