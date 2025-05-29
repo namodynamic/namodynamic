@@ -3,7 +3,7 @@ I'm Nnamdi, a web developer who loves building things that work and make a diffe
 
 -  👨🏻‍💻   I’m interested in learning and building new things.
 -  🤝   I'm currently working a personal project (SkillBridge).
--  ✉️    Contact me for collaborations [email](mailto:ekechinnamdi@gmail.com)
+-  ✉️    Contact me for collaborations [email](mailto:contact@nnamdiekechi.com)
 -  🖥️   See my portfolio at [nnamdiekechi.com](https://www.nnamdiekechi.com)
 
 <h3 align="">Let's connect! 🚀✨</h3>
@@ -16,7 +16,7 @@ I'm Nnamdi, a web developer who loves building things that work and make a diffe
 
 <div align="">
 
-[![My Personal Website](https://custom-icon-badges.demolab.com/badge/www.nnamdiekechi.com-gold?style=for-the-badge&logo=globe&logoColor=black)](https://www.nnamdiekechi.com) [![My Email](https://custom-icon-badges.demolab.com/badge/-ekechinnamdi@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:ekechinnamdi@gmail.com)
+[![My Personal Website](https://custom-icon-badges.demolab.com/badge/www.nnamdiekechi.com-gold?style=for-the-badge&logo=globe&logoColor=black)](https://www.nnamdiekechi.com) [![My Email](https://custom-icon-badges.demolab.com/badge/-contact@nnamdiekechi.com-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact@nnamdiekechi.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=namodynamic&color=blueviolet&style=for-the-badge) [![Total Stars on Github](https://custom-icon-badges.demolab.com/github/stars/namodynamic?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/srbhr?tab=repositories&sort=stargazers)
 
