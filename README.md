@@ -1,9 +1,9 @@
 ## Hello there 👋,
-I'm Nnamdi, a web developer who loves building things that work and make a difference. I enjoy solving problems, learning new things, and creating better experiences on the web.
+I'm Nnamdi, a full-stack web developer that loves building things that work and make a difference. I enjoy solving problems, learning new things, and creating better experiences on the web.
 
--  👨🏻‍💻   I’m interested in learning and building new things.
+-  👨🏻‍💻   I’m interested in building and learning new things.
 -  🤝   I'm currently working a personal project (SkillBridge).
--  ✉️    Contact me for collaborations [email](mailto:contact@nnamdiekechi.com)
+-  ✉️   Contact me for collaborations [email](mailto:contact@nnamdiekechi.com)
 -  🖥️   See my portfolio at [nnamdiekechi.com](https://www.nnamdiekechi.com)
 
 <h3 align="">Let's connect! 🚀✨</h3>
