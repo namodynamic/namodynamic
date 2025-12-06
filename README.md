@@ -2,7 +2,7 @@
 I'm Nnamdi, a full-stack web developer that loves building things that work and make a difference. I enjoy solving problems, learning new things, and creating better experiences on the web.
 
 -  👨🏻‍💻   I’m interested in building and learning new things.
--  🤝   I'm currently working on an AI Voice Tutor web app.
+-  🤝   I'm currently working on personal projects.
 -  ✉️   Contact me for collaborations [email](mailto:contact@nnamdiekechi.com)
 -  🖥️   See my portfolio at [nnamdiekechi.com](https://www.nnamdiekechi.com)
 
